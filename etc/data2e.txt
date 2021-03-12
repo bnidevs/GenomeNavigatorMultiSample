@@ -1,0 +1,16 @@
+1
+1000
+0
+0
+1
+04|Introns_Exons
+2
+0|0|FBtr0070291|1|DER BROWSER
+0|0||-|FFFFFF0
+0
+1
+02|ref
+1
+-1|-1||||dna
+0
+0
